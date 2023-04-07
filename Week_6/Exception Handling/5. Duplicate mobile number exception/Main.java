@@ -22,16 +22,7 @@ public class Main {
         finally {
             s.close();
         }
-        /*Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the contact details");
-        String[] input=sc.nextLine().split(",");
-        try{
-            ContactDetailBO.validate(input[0],input[1]);
-            ContactDetail cd=new ContactDetail(input[0],input[1],input[2],input[3],input[4]);
-            System.out.println(cd);
-        }catch(DuplicateMobileNumberException e){
-            System.out.println(e);
-        }*/
+
 
 
     }
