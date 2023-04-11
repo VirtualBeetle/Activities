@@ -1,0 +1,1 @@
+UPDATE building SET owner_name = 'Aiden' WHERE owner_name = 'Haidil';
