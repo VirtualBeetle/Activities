@@ -1,0 +1,5 @@
+INSERT INTO building_type VALUES ('01','HARSHA','12');
+INSERT INTO building_type VALUES ('02','TARUN','13');
+INSERT INTO building_type VALUES ('03','TANMAY','14');
+INSERT INTO building_type VALUES ('04','VIGNESH','15');
+INSERT INTO building_type VALUES ('05','RAKESH','16');
