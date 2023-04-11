@@ -1,0 +1,1 @@
+UPDATE slab SET from_unit = '1' WHERE from_unit = '0';
