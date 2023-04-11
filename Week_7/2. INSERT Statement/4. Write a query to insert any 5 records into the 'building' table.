@@ -1,0 +1,5 @@
+INSERT INTO building VALUES ('01','HARSHA','14-52,TIRUPATI','12','8989898821','harsha@gmail.com');
+INSERT INTO building VALUES ('02','TARUN','25-6,CHENNAI','13','9442104568','tarun@gmail.com');
+INSERT INTO building VALUES ('03','SHIVA','12-4,TIRUPATI','14','9988514236','shiv@gmail.com');
+INSERT INTO building VALUES ('04','KISHORE','1-5,CHENNAI','15','6320145873','kish12@gmail.com');
+INSERT INTO building VALUES ('05','LUCKY','15-6,GOA','16','6301425876','lucky09@gmail.com');
