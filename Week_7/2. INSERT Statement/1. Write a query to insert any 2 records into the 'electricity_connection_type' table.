@@ -1,0 +1,2 @@
+INSERT INTO electricity_connection_type VALUES ('21','TARUN');
+INSERT INTO electricity_connection_type VALUES ('22','HARSHA');
